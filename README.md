@@ -2,7 +2,7 @@
 
 Windows desktop app that incrementally copies selected folders to **one** personal cloud destination: Amazon S3 (or an S3-compatible endpoint), Google Cloud Storage, or Azure Blob Storage. New and changed files are uploaded; **files you delete on this PC are never deleted in the cloud.**
 
-[![CI](https://github.com/OWNER/REPO/actions/workflows/ci.yml/badge.svg)](https://github.com/OWNER/REPO/actions/workflows/ci.yml)
+[![CI](https://github.com/karthickme/windows_backup/actions/workflows/ci.yml/badge.svg)](https://github.com/karthickme/windows_backup/actions/workflows/ci.yml)
 [![Python 3.11+](https://img.shields.io/badge/python-3.11%2B-3776AB.svg)](https://www.python.org/downloads/)
 [![Platform](https://img.shields.io/badge/platform-Windows%2010%2F11-0078D6.svg)](https://www.microsoft.com/windows)
 
